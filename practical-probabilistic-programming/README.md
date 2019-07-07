@@ -6,5 +6,5 @@
 
 
 <div align="center">
-![](00-01.png)
+![](images/00-01.png)
 </div>
