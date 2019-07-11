@@ -10,6 +10,7 @@
 - [Learn Scala (Best Scala Tutorials for Beginners)](https://medium.com/hackr-io/learn-scala-best-scala-tutorials-for-beginners-bd80407387f5)
 
 # Article
+- [20 Best Scala Books To Go From Beginner To Expert](https://whatpixel.com/best-scala-books/)
 - http://hongjiang.info/scala/
 - https://www.zhihu.com/question/54855048/answer/417045057
 - https://zhuanlan.zhihu.com/p/36847710
