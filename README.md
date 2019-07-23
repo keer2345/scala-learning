@@ -2,6 +2,8 @@
 - [Programming in Scala 3rd Edition](https://github.com/keer2345/scala-learning/tree/master/programming-in-scala)
 - Building Applications with Scala
 - Learning Scala
+- [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+- [Scalatra in Action](https://www.manning.com/books/scalatra-in-action) Tiny Scala high-performance, async web framework, inspired by [Sinatra](https://github.com/scalatra/scalatra)
 
 # Website
 - [allaboutscala.com](https://github.com/keer2345/scala-learning/tree/master/allaboutscala.com)
