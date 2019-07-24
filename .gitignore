@@ -1,2 +1,15 @@
 *.class
 *.log
+
+*.un~
+*.swp
+tags
+target
+project/boot
+.history
+project.vim
+*.old
+.idea
+.project
+.classpath
+.metadata/
