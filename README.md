@@ -4,6 +4,7 @@
 - Learning Scala
 - [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 - [Scalatra in Action](https://www.manning.com/books/scalatra-in-action) Tiny Scala high-performance, async web framework, inspired by [Sinatra](https://github.com/scalatra/scalatra)
+- Learning Scala
 
 # Website
 - [allaboutscala.com](https://github.com/keer2345/scala-learning/tree/master/allaboutscala.com)
@@ -18,6 +19,10 @@
 - http://hongjiang.info/scala/
 - https://www.zhihu.com/question/54855048/answer/417045057
 - https://zhuanlan.zhihu.com/p/36847710
+
+# Github
+- [swartzrock/LearningScalaMaterials](https://github.com/swartzrock/LearningScalaMaterials)
+- [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises)
 
 # Other
 - Write a pretty printer for case classes. Since Scala 2.13 there is a new method on scala.Product called productElementsName. You can use this and the Paige library [typelevel/paiges](https://github.com/typelevel/paiges) to pretty print any case classes.
