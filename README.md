@@ -15,6 +15,7 @@
 - [Learn Scala (Best Scala Tutorials for Beginners)](https://medium.com/hackr-io/learn-scala-best-scala-tutorials-for-beginners-bd80407387f5)
 
 # Article
+- [庄周梦蝶的博客](http://blog.fnil.net/)
 - [20 Best Scala Books To Go From Beginner To Expert](https://whatpixel.com/best-scala-books/)
 - http://hongjiang.info/scala/
 - https://www.zhihu.com/question/54855048/answer/417045057
@@ -23,6 +24,7 @@
 # Github
 - [swartzrock/LearningScalaMaterials](https://github.com/swartzrock/LearningScalaMaterials)
 - [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises)
+- [rubbish/scala-koans](https://github.com/rubbish/scala-koans)
 
 # Other
 - Write a pretty printer for case classes. Since Scala 2.13 there is a new method on scala.Product called productElementsName. You can use this and the Paige library [typelevel/paiges](https://github.com/typelevel/paiges) to pretty print any case classes.
