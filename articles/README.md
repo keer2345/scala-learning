@@ -1,1 +1,0 @@
-- [A brief demonstration of emacs new lexical bindings](./a-brief-demonstration-of-emacs-new-lexical-bindings.md)

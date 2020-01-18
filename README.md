@@ -1,3 +1,11 @@
+
+
+# My Summary
+- Summary
+
+# Scala Derivative Version
+- [Purely functional, effectful, resource-safe, concurrent streams for Scala](https://fs2.io/)
+
 # Book
 - [Programming in Scala 3rd Edition](https://github.com/keer2345/scala-learning/tree/master/programming-in-scala)
 - Building Applications with Scala
@@ -5,6 +13,9 @@
 - [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 - [Scalatra in Action](https://www.manning.com/books/scalatra-in-action) Tiny Scala high-performance, async web framework, inspired by [Sinatra](https://github.com/scalatra/scalatra)
 - [Learning Scala](https://github.com/keer2345/scala-learning/tree/master/learning-scala)
+- [Functional Programming Patterns in Scala and Clojure](https://github.com/keer2345/scala-learning/tree/master/fpp-s-c)
+- [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala)
+- [Beginners Guide to Scala](https://yoppworks.com/wp-content/uploads/2019/12/BeginnersGuidetoScala.pdf)
 
 # Website
 - [allaboutscala.com](https://github.com/keer2345/scala-learning/tree/master/allaboutscala.com)
@@ -23,8 +34,12 @@
 
 # Github
 - [swartzrock/LearningScalaMaterials](https://github.com/swartzrock/LearningScalaMaterials)
+
+# Exercise
+- [Small and good scala projects to learn scala](https://stackoverflow.com/questions/9772631/small-and-good-scala-projects-to-learn-scala-especially-functional-programmin)
 - [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises)
 - [rubbish/scala-koans](https://github.com/rubbish/scala-koans)
+- [the 99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 
 # Other
 - Write a pretty printer for case classes. Since Scala 2.13 there is a new method on scala.Product called productElementsName. You can use this and the Paige library [typelevel/paiges](https://github.com/typelevel/paiges) to pretty print any case classes.
