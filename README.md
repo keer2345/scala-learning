@@ -14,10 +14,14 @@
 - [Scalatra in Action](https://www.manning.com/books/scalatra-in-action) Tiny Scala high-performance, async web framework, inspired by [Sinatra](https://github.com/scalatra/scalatra)
 - [Learning Scala](https://github.com/keer2345/scala-learning/tree/master/learning-scala)
 - [Functional Programming Patterns in Scala and Clojure](https://github.com/keer2345/scala-learning/tree/master/fpp-s-c)
-- [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala)
+- **TODO** [Practical FP in Scala: A hands-on approach](https://github.com/keer2345/scala-learning/tree/master/pfp-scala)
+- **TODO** [Scala by Example](https://github.com/keer2345/scala-learning/tree/master/scala-by-example)
 - [Beginners Guide to Scala](https://yoppworks.com/wp-content/uploads/2019/12/BeginnersGuidetoScala.pdf)
 
+
+
 # Website
+- **TODO** [Scala Programming for Data Science](https://github.com/keer2345/scala-learning/tree/master/scala-programming-for-data-science)
 - [allaboutscala.com](https://github.com/keer2345/scala-learning/tree/master/allaboutscala.com)
 - [Scala Tutorial](http://tutorials.jenkov.com/scala/index.html)
 - [Scala Tutorial – Learn Scala from Experts](https://intellipaat.com/tutorial/scala-tutorial/)
