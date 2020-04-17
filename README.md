@@ -18,6 +18,7 @@
 - **TODO** [Scala by Example](https://github.com/keer2345/scala-learning/tree/master/scala-by-example)
 - [Beginners Guide to Scala](https://yoppworks.com/wp-content/uploads/2019/12/BeginnersGuidetoScala.pdf)
 - [Beginning Scala](https://github.com/keer2345/scala-learning/tree/master/beginning-scala)
+- [Professional Scala](https://github.com/keer2345/scala-learning/tree/master/professional-scala)
 
 
 
