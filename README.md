@@ -19,6 +19,8 @@
 - [Beginners Guide to Scala](https://yoppworks.com/wp-content/uploads/2019/12/BeginnersGuidetoScala.pdf)
 - [Beginning Scala](https://github.com/keer2345/scala-learning/tree/master/beginning-scala)
 - [Professional Scala](https://github.com/keer2345/scala-learning/tree/master/professional-scala)
+- [Hands-on Scala](https://www.handsonscala.com/chapter-1-hands-on-scala.html)
+- [Scala Programming Projects](https://github.com/keer2345/scala-learning/tree/master/scala-programming-projects)
 
 
 
@@ -46,6 +48,9 @@
 - [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises)
 - [rubbish/scala-koans](https://github.com/rubbish/scala-koans)
 - [the 99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+
+# Library
+- [scala.libhunt.com](https://scala.libhunt.com/)
 
 # Other
 - Write a pretty printer for case classes. Since Scala 2.13 there is a new method on scala.Product called productElementsName. You can use this and the Paige library [typelevel/paiges](https://github.com/typelevel/paiges) to pretty print any case classes.
