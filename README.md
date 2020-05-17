@@ -39,6 +39,7 @@
 - http://hongjiang.info/scala/
 - https://www.zhihu.com/question/54855048/answer/417045057
 - https://zhuanlan.zhihu.com/p/36847710
+- [Functional Tracing using Scala](https://medium.com/@ayushm4489/functional-tracing-using-scala-dc98b1f2ec5) ---- ([tpolecat/natchez](https://github.com/tpolecat/natchez))
 
 # Github
 - [swartzrock/LearningScalaMaterials](https://github.com/swartzrock/LearningScalaMaterials)
